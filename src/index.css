@@ -47,7 +47,10 @@ a:hover {
   clear: both;
   visibility: hidden;
 }
-
 .clearfix {
   zoom: 1;
+}
+html,body,#root{
+  width: 100;
+  height: 100%;
 }
